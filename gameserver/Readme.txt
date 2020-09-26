@@ -1,0 +1,1 @@
+使⽤Visual Studio選擇打開專案，選擇gameserver資料夾下的gameserver.sln並打開，按下開始偵錯即可開啟server。
